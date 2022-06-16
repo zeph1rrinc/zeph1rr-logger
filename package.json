@@ -1,0 +1,30 @@
+{
+  "name": "zeph1rr-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "jslogger",
+    "logger4js"
+  ],
+  "author": "Zeph1rr <grianton535@gmail.com>",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "node.date-time": "^1.2.2"
+  },
+  "repository": "zeph1rrinc/zeph1rr-logger",
+  "homepage": "https://github.com/zeph1rrinc/zeph1rr-logger/blob/master/README.md"
+}
